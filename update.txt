@@ -1,5 +1,6 @@
-﻿0.7.6
-https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.7.6.zip
+﻿0.7.7
+https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.7.7.zip
+- 0.7.7: 分镜框旧版整篇模板存稿自动挪开(留档分镜-旧模板残留.csv),本地缓存旧模板半稿也不再回填——灰字提示真正生效
 - 0.7.6: 装完更新自动重启后端:修「重启只是重开窗口、旧进程赖着→永远弹一键更新」死循环
 - 0.7.5: ①-B分镜框不再塞可编辑模板:灰字提示改为不可修改的占位体,表头保存时机器自动补,新开工不再自动弹填写说明
 - 0.7.4: 工作台不重启也能收到新版:后台每30分钟自动查一次,有新版直接弹一键更新
