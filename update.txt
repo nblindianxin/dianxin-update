@@ -1,5 +1,6 @@
-﻿0.7.16
-https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.7.16.zip
+﻿0.7.17
+https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.7.17.zip
+- 0.7.17: 授权加固:剪辑任务须通过后端激活校验,未激活副本无法绕过页面直接调引擎;正常已激活用户无感知
 - 0.7.16: 查更新直连Gitee国内镜像优先,不再先等境外CDN超时,启动查版本更快
 - 0.7.15: 素材库与对标参考支持单条删除:项目文件夹里的文件删除进回收站可还原;[外部]登记只解除记录不碰原文件
 - 0.7.14: 保存分镜表时如果整框都是自然语言,自动走讲述转分镜(不再报错让客户自己找框);混合内容仍报清晰错
