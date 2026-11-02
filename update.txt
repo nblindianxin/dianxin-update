@@ -1,5 +1,6 @@
-﻿0.12.1
-https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.12.1.zip
+﻿0.13
+https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.13.zip
+- 0.13: ①-C新增「🚀 一键装本地AI」:按显存自动选档(10G+→8B/6G+→4B/其余1.5B),国内镜像下载+官方SHA256校验+静默安装+ModelScope拉模型+自动填设置,全程进度可见可取消,装完助手永久0元断网可用
 - 0.12.1: 助手回话后的token数现在明说性质:本地模型标注「0元」,云端标注「按官网单价」,不再让人误以为在扣钱
 - 0.12: 助手大升级:①知识库补全(铁律节也入),按钮一律用界面中文叫法防弱模型念错②查无手册依据直接拒答不瞎编③检索加单字半权+二字组硬闸,短句也能查准④本地Ollama/LM Studio自动带驻内存+4K上下文,实测1.5B模型0.5-10秒/答
 - 0.11.1: 助手支持本地免费模型:接口地址填127.0.0.1(Ollama/LM Studio)时密钥可留空直接连,外网地址照旧必须填密钥;说明文案同步
