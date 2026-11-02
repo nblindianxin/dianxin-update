@@ -1,5 +1,6 @@
-﻿0.7.19
-https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.7.19.zip
+﻿0.8
+https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.8.zip
+- 0.8: 字幕铁律修订:一律下沿(横屏底边留8%,竖屏留20%在遮挡区上方),画面正中退役
 - 0.7.19: 第④步AI交接包自动内嵌动效白名单与书写语法,客户那边的AI拿到交接包就能按协议执行,不用另要说明书
 - 0.7.18: 交接包说明补「重新生成的后果」:剪映包再按会推倒重建同名草稿,剪映里手改的内容会丢,手改过先复制改名存档;AI包可随便重按
 - 0.7.17: 授权加固:剪辑任务须通过后端激活校验,未激活副本无法绕过页面直接调引擎;正常已激活用户无感知
