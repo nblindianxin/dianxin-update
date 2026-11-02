@@ -1,5 +1,6 @@
-﻿0.10
-https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.10.zip
+﻿0.11
+https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.11.zip
+- 0.11: 助手升级为工作台专属客服:随身带完整说明书(176条按钮/输入框/流程/排障手册),按每个问题自动检索最相关条目再回答,界面文案改了知识自动跟着改,不另写手册不编功能
 - 0.10: 新增顶栏「助手」:剪辑AI聊天窗常驻右侧,带当前项目名/分镜表/最近日志当上下文,只出主意不动手;复用①-B的密钥/接口/模型设置,没配直说不联网
 - 0.9.1: ①-B「用豆包理解」升级为「用AI理解」:任意OpenAI兼容接口(Kimi/DeepSeek/Claude/本地Ollama等)都能接,新增接口地址栏,拉模型不再只列豆包;第④步交接包文案改为任何能读中文的AI均可执行,不分品牌
 - 0.9: 铁律18:口播成片音频默认直通(不降噪/不高通/不压限/不改响度,人声绝对不变),旧处理链改为--chain full显式开启
