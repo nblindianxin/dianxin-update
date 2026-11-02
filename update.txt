@@ -1,5 +1,6 @@
-﻿0.9
-https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.9.zip
+﻿0.9.1
+https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.9.1.zip
+- 0.9.1: ①-B「用豆包理解」升级为「用AI理解」:任意OpenAI兼容接口(Kimi/DeepSeek/Claude/本地Ollama等)都能接,新增接口地址栏,拉模型不再只列豆包;第④步交接包文案改为任何能读中文的AI均可执行,不分品牌
 - 0.9: 铁律18:口播成片音频默认直通(不降噪/不高通/不压限/不改响度,人声绝对不变),旧处理链改为--chain full显式开启
 - 0.8: 字幕铁律修订:一律下沿(横屏底边留8%,竖屏留20%在遮挡区上方),画面正中退役
 - 0.7.19: 第④步AI交接包自动内嵌动效白名单与书写语法,客户那边的AI拿到交接包就能按协议执行,不用另要说明书
