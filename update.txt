@@ -1,5 +1,6 @@
-﻿0.8
-https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.8.zip
+﻿0.9
+https://cdn.jsdelivr.net/gh/nblindianxin/dianxin-update@main/update-0.9.zip
+- 0.9: 铁律18:口播成片音频默认直通(不降噪/不高通/不压限/不改响度,人声绝对不变),旧处理链改为--chain full显式开启
 - 0.8: 字幕铁律修订:一律下沿(横屏底边留8%,竖屏留20%在遮挡区上方),画面正中退役
 - 0.7.19: 第④步AI交接包自动内嵌动效白名单与书写语法,客户那边的AI拿到交接包就能按协议执行,不用另要说明书
 - 0.7.18: 交接包说明补「重新生成的后果」:剪映包再按会推倒重建同名草稿,剪映里手改的内容会丢,手改过先复制改名存档;AI包可随便重按
